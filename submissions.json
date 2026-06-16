@@ -1,0 +1,2742 @@
+[
+  {
+    "name": "pragya",
+    "department": "IT",
+    "A": 40,
+    "B": 4,
+    "C": 20,
+    "score": 32,
+    "timestamp": "2026-06-09T06:24:36.188Z"
+  },
+  {
+    "name": "pc",
+    "department": "IT",
+    "A": 60,
+    "B": 5,
+    "C": 100,
+    "score": 300,
+    "timestamp": "2026-06-09T06:32:26.567Z"
+  },
+  {
+    "name": "pc",
+    "department": "it",
+    "idea_summary": "Unable to classify – using placeholder summary.",
+    "category": "AI Use Case",
+    "A": 40,
+    "B": 5,
+    "C": 100,
+    "score": 200,
+    "timestamp": "2026-06-10T03:01:35.481Z"
+  },
+  {
+    "name": "pc",
+    "department": "it",
+    "idea_summary": "",
+    "category": "AI Use Case",
+    "A": 40,
+    "B": 5,
+    "C": 100,
+    "score": 200,
+    "timestamp": "2026-06-10T03:05:48.091Z"
+  },
+  {
+    "name": "pc ",
+    "department": "it",
+    "idea_summary": "",
+    "category": "Automation",
+    "A": 60,
+    "B": 5,
+    "C": 100,
+    "score": 300,
+    "timestamp": "2026-06-10T03:07:59.231Z"
+  },
+  {
+    "name": "pragya ",
+    "department": "it",
+    "idea_summary": "",
+    "category": "AI Use Case",
+    "A": 40,
+    "B": 5,
+    "C": 100,
+    "score": 200,
+    "timestamp": "2026-06-10T04:41:40.257Z"
+  },
+  {
+    "name": "pragya",
+    "department": "IT",
+    "idea_summary": "",
+    "category": "Automation",
+    "A": 60,
+    "B": 5,
+    "C": 100,
+    "score": 300,
+    "timestamp": "2026-06-10T05:04:43.393Z"
+  },
+  {
+    "name": "pragya",
+    "department": "IT",
+    "idea_summary": "",
+    "category": "Automation",
+    "A": 60,
+    "B": 5,
+    "C": 100,
+    "score": 300,
+    "timestamp": "2026-06-10T05:15:22.028Z"
+  },
+  {
+    "name": "pc",
+    "department": "it",
+    "idea_summary": "",
+    "category": "AI Use Case",
+    "A": 60,
+    "B": 3,
+    "C": 98,
+    "score": 176,
+    "answers": {
+      "q1": "Manual data entry\nCopying information between systems\nPreparing repetitive reports\nUpdating spreadsheets every day\nChasing people for approvals",
+      "q2": "Weekly report generation\nResponding to repetitive emails",
+      "q3": "Missing or incomplete data\nDelays in approvals\nDuplicate work across teams\nCommunication gaps between departments\nFrequent data entry errors\nRepeated customer queries\nLack of process standardization\nVersion control issues in documents"
+    },
+    "answerCounts": {
+      "x": 5,
+      "y": 2,
+      "z": 8
+    },
+    "timestamp": "2026-06-10T18:20:28.593Z"
+  },
+  {
+    "name": "GTest aUser",
+    "account": "Test Account",
+    "category": "AI Use Case",
+    "A": 40,
+    "B": 4,
+    "C": 90,
+    "score": 144,
+    "answers": {
+      "q1": "Manual data entry\nCopying information between systems\nPreparing repetitive reports\nUpdating spreadsheets every day\nChasing people for approvals\nSorting emails manually\nCreating status updates",
+      "q2": "Weekly report generation\nResponding to repetitive emails\nData validation and cleanup\nSearching for information across systems",
+      "q3": "Missing or incomplete data\nDelays in approvals\nDuplicate work across teams\nCommunication gaps between departments"
+    },
+    "answerCounts": {
+      "x": 7,
+      "y": 4,
+      "z": 4
+    },
+    "timestamp": "2026-06-11T06:06:07.165Z"
+  },
+  {
+    "name": "G",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Manual data entry",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Repetitive task with fixed rules, ideal for Robotic Process Automation (RPA)."
+      },
+      {
+        "text": "Copying information between systems",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Rule-based transfer of data between structured systems, suitable for RPA."
+      },
+      {
+        "text": "Preparing repetitive reports",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Generating reports from structured data sources with fixed templates and schedules."
+      },
+      {
+        "text": "Updating spreadsheets every day",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Daily updates based on consistent data and rules, without requiring judgment."
+      },
+      {
+        "text": "Chasing people for approvals",
+        "source": "q1",
+        "category": "Process Fix",
+        "reason": "Indicates a broken workflow or lack of clarity in approval processes that needs redesign."
+      },
+      {
+        "text": "Sorting emails manually",
+        "source": "q1",
+        "category": "AI Use Case",
+        "reason": "Requires understanding unstructured text (email content) and applying judgment for categorization."
+      },
+      {
+        "text": "Creating status updates",
+        "source": "q1",
+        "category": "AI Use Case",
+        "reason": "Requires synthesizing information, identifying key points, and generating narrative, which involves judgment."
+      },
+      {
+        "text": "Checking invoices one by one",
+        "source": "q1",
+        "category": "AI Use Case",
+        "reason": "Involves extracting data from unstructured documents and comparing for anomalies, requiring interpretation and judgment."
+      },
+      {
+        "text": "Weekly report generation",
+        "source": "q2",
+        "category": "Automation",
+        "reason": "Generating reports from structured data sources with fixed templates on a recurring basis."
+      },
+      {
+        "text": "Responding to repetitive emails",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Requires understanding email intent (unstructured text) and generating appropriate, contextual responses."
+      },
+      {
+        "text": "Data validation and cleanup",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Involves identifying inconsistencies, inferring corrections, and standardizing messy data, requiring judgment beyond fixed rules."
+      },
+      {
+        "text": "Searching for information across systems",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Requires understanding search intent, interpreting information from diverse, potentially unstructured sources, and determining relevancy."
+      },
+      {
+        "text": "Missing or incomplete data",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Indicates a breakdown in data collection, input, or governance processes that needs a workflow change."
+      },
+      {
+        "text": "Delays in approvals",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Points to bottlenecks or inefficiencies within the approval workflow that require process redesign."
+      },
+      {
+        "text": "Duplicate work across teams",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Indicates poor coordination, lack of clear ownership, or inefficient information flow between teams."
+      },
+      {
+        "text": "Communication gaps between departments",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Rooted in organizational structure, lack of standardized communication channels, or unclear roles that need process improvement."
+      }
+    ],
+    "bucketResults": {
+      "Automation": {
+        "score": 78,
+        "tier": "Needs More Detail",
+        "A": 29,
+        "B": 3,
+        "C": 90,
+        "items": [
+          "Manual data entry",
+          "Copying information between systems",
+          "Preparing repetitive reports",
+          "Updating spreadsheets every day",
+          "Weekly report generation"
+        ]
+      },
+      "Process Fix": {
+        "score": 180,
+        "tier": "Medium Priority",
+        "A": 90,
+        "B": 2,
+        "C": 100,
+        "items": [
+          "Chasing people for approvals",
+          "Missing or incomplete data",
+          "Delays in approvals",
+          "Duplicate work across teams",
+          "Communication gaps between departments"
+        ]
+      },
+      "AI Use Case": {
+        "score": 396,
+        "tier": "High Priority",
+        "A": 40,
+        "B": 10,
+        "C": 99,
+        "items": [
+          "Sorting emails manually",
+          "Creating status updates",
+          "Checking invoices one by one",
+          "Responding to repetitive emails",
+          "Data validation and cleanup",
+          "Searching for information across systems"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Manual data entry\nCopying information between systems\nPreparing repetitive reports\nUpdating spreadsheets every day\nChasing people for approvals\nSorting emails manually\nCreating status updates\nChecking invoices one by one",
+      "q2": "Weekly report generation\nResponding to repetitive emails\nData validation and cleanup\nSearching for information across systems",
+      "q3": "Missing or incomplete data\nDelays in approvals\nDuplicate work across teams\nCommunication gaps between departments"
+    },
+    "answerCounts": {
+      "x": 8,
+      "y": 4,
+      "z": 4
+    },
+    "timestamp": "2026-06-11T06:26:53.914Z"
+  },
+  {
+    "name": "G",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Manual data entry",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Repetitive input of structured data following fixed rules."
+      },
+      {
+        "text": "Copying information between systems",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Transferring structured data between defined systems."
+      },
+      {
+        "text": "Preparing repetitive reports",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Generating reports from structured data based on templates."
+      },
+      {
+        "text": "Updating spreadsheets every day",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Regular updates of structured data following a predefined pattern."
+      },
+      {
+        "text": "Chasing people for approvals",
+        "source": "q1",
+        "category": "Process Fix",
+        "reason": "Indicates a broken workflow or approval system."
+      },
+      {
+        "text": "Sorting emails manually",
+        "source": "q1",
+        "category": "AI Use Case",
+        "reason": "Requires understanding unstructured text (email content) and applying judgment for classification."
+      },
+      {
+        "text": "Data validation and cleanup",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Involves identifying inconsistencies or anomalies often requiring pattern recognition or fuzzy matching."
+      },
+      {
+        "text": "Searching for information across systems",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Involves sifting through varied data types and unstructured information using natural language queries."
+      },
+      {
+        "text": "Manual testing and verification",
+        "source": "q2",
+        "category": "Automation",
+        "reason": "Executing predefined test cases and comparing expected vs. actual results."
+      },
+      {
+        "text": "Attending unnecessary meetings",
+        "source": "q2",
+        "category": "Process Fix",
+        "reason": "Relates to meeting culture, invites, and efficiency, not a task for technology."
+      },
+      {
+        "text": "Tracking project status updates",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Often involves extracting and summarizing information from various unstructured sources."
+      },
+      {
+        "text": "Delays in approvals",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Indicates a bottleneck in the workflow or approval process."
+      },
+      {
+        "text": "Duplicate work across teams",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Highlights a lack of coordination or clear process ownership between teams."
+      },
+      {
+        "text": "Communication gaps between departments",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Pertains to organizational structure, culture, and communication protocols."
+      },
+      {
+        "text": "Frequent data entry errors",
+        "source": "q3",
+        "category": "AI Use Case",
+        "reason": "AI can identify anomalies, suggest corrections, or learn from patterns to prevent errors."
+      },
+      {
+        "text": "Repeated customer queries",
+        "source": "q3",
+        "category": "AI Use Case",
+        "reason": "AI (e.g., chatbots) can understand and respond to natural language queries, reducing repetition."
+      }
+    ],
+    "bucketResults": {
+      "Automation": {
+        "score": 54,
+        "tier": "Needs More Detail",
+        "A": 20,
+        "B": 3,
+        "C": 90,
+        "items": [
+          "Manual data entry",
+          "Copying information between systems",
+          "Preparing repetitive reports",
+          "Updating spreadsheets every day",
+          "Manual testing and verification"
+        ]
+      },
+      "Process Fix": {
+        "score": 200,
+        "tier": "Medium Priority",
+        "A": 40,
+        "B": 5,
+        "C": 100,
+        "items": [
+          "Chasing people for approvals",
+          "Attending unnecessary meetings",
+          "Delays in approvals",
+          "Duplicate work across teams",
+          "Communication gaps between departments"
+        ]
+      },
+      "AI Use Case": {
+        "score": 320,
+        "tier": "High Priority",
+        "A": 80,
+        "B": 4,
+        "C": 100,
+        "items": [
+          "Sorting emails manually",
+          "Data validation and cleanup",
+          "Searching for information across systems",
+          "Tracking project status updates",
+          "Frequent data entry errors",
+          "Repeated customer queries"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Manual data entry\nCopying information between systems\nPreparing repetitive reports\nUpdating spreadsheets every day\nChasing people for approvals\nSorting emails manually\n",
+      "q2": "Data validation and cleanup\nSearching for information across systems\nManual testing and verification\nAttending unnecessary meetings\nTracking project status updates\n",
+      "q3": "Delays in approvals\nDuplicate work across teams\nCommunication gaps between departments\nFrequent data entry errors\nRepeated customer queries\n"
+    },
+    "answerCounts": {
+      "x": 6,
+      "y": 5,
+      "z": 5
+    },
+    "timestamp": "2026-06-11T06:45:32.788Z"
+  },
+  {
+    "name": "Gauravi ",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Preparing repetitive reports",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Based on your list of what you don't want to do."
+      },
+      {
+        "text": "Updating spreadsheets every day",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Based on your list of what you don't want to do."
+      },
+      {
+        "text": "Chasing people for approvals",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Based on your list of what you don't want to do."
+      },
+      {
+        "text": "Sorting emails manually",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Based on your list of what you don't want to do."
+      },
+      {
+        "text": "Creating status updates",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Based on your list of what you don't want to do."
+      },
+      {
+        "text": "Checking invoices one by one",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Based on your list of what you don't want to do."
+      },
+      {
+        "text": "Scheduling meetings manually",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Based on your list of what you don't want to do."
+      },
+      {
+        "text": "Manual testing and verification",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Based on what takes up too much of your time."
+      },
+      {
+        "text": "Attending unnecessary meetings",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Based on what takes up too much of your time."
+      },
+      {
+        "text": "Tracking project status updates",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Based on what takes up too much of your time."
+      },
+      {
+        "text": "Creating presentations",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Based on what takes up too much of your time."
+      },
+      {
+        "text": "Following up on pending tasks",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Based on what takes up too much of your time."
+      },
+      {
+        "text": "Delays in approvals",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Based on recurring problems."
+      },
+      {
+        "text": "Duplicate work across teams",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Based on recurring problems."
+      },
+      {
+        "text": "Communication gaps between departments",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Based on recurring problems."
+      },
+      {
+        "text": "Frequent data entry errors",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Based on recurring problems."
+      },
+      {
+        "text": "Repeated customer queries",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Based on recurring problems."
+      }
+    ],
+    "bucketResults": {
+      "Automation": {
+        "score": 60,
+        "tier": "Needs More Detail",
+        "A": 20,
+        "B": 3,
+        "C": 100,
+        "items": [
+          "Preparing repetitive reports",
+          "Updating spreadsheets every day",
+          "Chasing people for approvals",
+          "Sorting emails manually",
+          "Creating status updates",
+          "Checking invoices one by one",
+          "Scheduling meetings manually"
+        ]
+      },
+      "AI Use Case": {
+        "score": 96,
+        "tier": "Needs More Detail",
+        "A": 30,
+        "B": 4,
+        "C": 80,
+        "items": [
+          "Manual testing and verification",
+          "Attending unnecessary meetings",
+          "Tracking project status updates",
+          "Creating presentations",
+          "Following up on pending tasks"
+        ]
+      },
+      "Process Fix": {
+        "score": 240,
+        "tier": "Medium Priority",
+        "A": 60,
+        "B": 5,
+        "C": 80,
+        "items": [
+          "Delays in approvals",
+          "Duplicate work across teams",
+          "Communication gaps between departments",
+          "Frequent data entry errors",
+          "Repeated customer queries"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Preparing repetitive reports\nUpdating spreadsheets every day\nChasing people for approvals\nSorting emails manually\nCreating status updates\nChecking invoices one by one\nScheduling meetings manually",
+      "q2": "Manual testing and verification\nAttending unnecessary meetings\nTracking project status updates\nCreating presentations\nFollowing up on pending tasks",
+      "q3": "Delays in approvals\nDuplicate work across teams\nCommunication gaps between departments\nFrequent data entry errors\nRepeated customer queries\n"
+    },
+    "answerCounts": {
+      "x": 7,
+      "y": 5,
+      "z": 5
+    },
+    "timestamp": "2026-06-11T06:49:56.980Z"
+  },
+  {
+    "name": "G ",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Manual data entry",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Repetitive task that follows fixed rules for data transfer."
+      },
+      {
+        "text": "Copying information between systems",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Rule-based transfer of data from one system to another."
+      },
+      {
+        "text": "Preparing repetitive reports",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Report generation with consistent structure and data sources, following fixed rules."
+      },
+      {
+        "text": "Updating spreadsheets every day",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Repetitive, rule-based updates to data based on consistent inputs."
+      },
+      {
+        "text": "Chasing people for approvals",
+        "source": "q1",
+        "category": "Process Fix",
+        "reason": "Indicates a bottleneck and lack of clear workflow or automated reminders in the approval process."
+      },
+      {
+        "text": "Sorting emails manually",
+        "source": "q1",
+        "category": "AI Use Case",
+        "reason": "Requires understanding unstructured text content and applying judgment for categorization or routing."
+      },
+      {
+        "text": "Weekly report generation",
+        "source": "q2",
+        "category": "Automation",
+        "reason": "Scheduled report generation from structured data sources with a defined format."
+      },
+      {
+        "text": "Responding to repetitive emails",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Requires understanding email intent from unstructured text to provide an appropriate, standardized response."
+      },
+      {
+        "text": "Data validation and cleanup",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Often involves identifying patterns, anomalies, or standardizing varied/messy data that requires judgment beyond fixed rules."
+      },
+      {
+        "text": "Searching for information across systems",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Requires understanding natural language queries and retrieving/synthesizing information from diverse, potentially unstructured sources."
+      },
+      {
+        "text": "Repeated customer queries",
+        "source": "q3",
+        "category": "AI Use Case",
+        "reason": "Requires understanding natural language queries to provide relevant and standardized answers or information."
+      },
+      {
+        "text": "Lack of process standardization",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "A fundamental issue with workflow design, preventing consistent execution and making automation difficult."
+      },
+      {
+        "text": "Version control issues in documents",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Problem with document management workflows and collaboration methods, not a task for automation or AI judgment."
+      },
+      {
+        "text": "Information scattered across tools",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Issue with information architecture and lack of integrated data management, making discovery difficult."
+      },
+      {
+        "text": "Missed deadlines due to dependencies",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Problem with workflow planning, task sequencing, communication, or resource allocation within a process."
+      }
+    ],
+    "bucketResults": {
+      "Automation": {
+        "score": 54,
+        "tier": "Needs More Detail",
+        "A": 20,
+        "B": 3,
+        "C": 90,
+        "items": [
+          "Manual data entry",
+          "Copying information between systems",
+          "Preparing repetitive reports",
+          "Updating spreadsheets every day",
+          "Weekly report generation"
+        ]
+      },
+      "Process Fix": {
+        "score": 400,
+        "tier": "High Priority",
+        "A": 80,
+        "B": 5,
+        "C": 100,
+        "items": [
+          "Chasing people for approvals",
+          "Lack of process standardization",
+          "Version control issues in documents",
+          "Information scattered across tools",
+          "Missed deadlines due to dependencies"
+        ]
+      },
+      "AI Use Case": {
+        "score": 120,
+        "tier": "Medium Priority",
+        "A": 50,
+        "B": 3,
+        "C": 80,
+        "items": [
+          "Sorting emails manually",
+          "Responding to repetitive emails",
+          "Data validation and cleanup",
+          "Searching for information across systems",
+          "Repeated customer queries"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Manual data entry\nCopying information between systems\nPreparing repetitive reports\nUpdating spreadsheets every day\nChasing people for approvals\nSorting emails manually\n",
+      "q2": "Weekly report generation\nResponding to repetitive emails\nData validation and cleanup\nSearching for information across systems\n",
+      "q3": "Repeated customer queries\nLack of process standardization\nVersion control issues in documents\nInformation scattered across tools\nMissed deadlines due to dependencies"
+    },
+    "answerCounts": {
+      "x": 6,
+      "y": 4,
+      "z": 5
+    },
+    "timestamp": "2026-06-11T09:25:06.617Z"
+  },
+  {
+    "name": "G",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Manual data entry",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Repetitive, rule-based transfer of data from one source to another without judgment."
+      },
+      {
+        "text": "Copying information between systems",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Repetitive transfer of data between structured systems based on fixed rules."
+      },
+      {
+        "text": "Preparing repetitive reports",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "If data sources, calculations, and format are consistent, this is a rule-based task."
+      },
+      {
+        "text": "Updating spreadsheets every day",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Daily updates often involve pulling data from known sources into a structured format based on rules."
+      },
+      {
+        "text": "Manual testing and verification",
+        "source": "q2",
+        "category": "Automation",
+        "reason": "Many test cases follow specific, repeatable steps and expected outcomes which can be scripted."
+      },
+      {
+        "text": "Attending unnecessary meetings",
+        "source": "q2",
+        "category": "Process Fix",
+        "reason": "Reflects poor meeting culture, planning, or invitation practices; requires workflow changes, not technology."
+      },
+      {
+        "text": "Tracking project status updates",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Often involves extracting, synthesizing, and interpreting data from diverse and sometimes unstructured sources (emails, chats, notes)."
+      },
+      {
+        "text": "Creating presentations",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Requires summarization, content generation, and judgment in structuring information for an audience."
+      },
+      {
+        "text": "Following up on pending tasks",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Can involve understanding context, drafting personalized messages, and determining appropriate next steps, which benefits from AI's natural language capabilities."
+      },
+      {
+        "text": "Document preparation",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Often involves synthesizing information, generating initial drafts, or tailoring content based on purpose and audience."
+      },
+      {
+        "text": "Repeated customer queries",
+        "source": "q3",
+        "category": "AI Use Case",
+        "reason": "AI-powered chatbots and knowledge bases can understand natural language queries and provide instant, consistent answers."
+      },
+      {
+        "text": "Lack of process standardization",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Requires defining, documenting, and enforcing consistent workflows and procedures, not a technology solution."
+      },
+      {
+        "text": "Version control issues in documents",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Often stems from inadequate document management practices, lack of consistent tools, or user adherence to conventions."
+      },
+      {
+        "text": "Information scattered across tools",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Indicates a lack of integrated information architecture, defined data sources, or poor tool adoption/strategy."
+      },
+      {
+        "text": "Missed deadlines due to dependencies",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Points to issues in project planning, dependency management, communication, or resource allocation workflows."
+      }
+    ],
+    "bucketResults": {
+      "Automation": {
+        "score": 144,
+        "tier": "Medium Priority",
+        "A": 60,
+        "B": 3,
+        "C": 80,
+        "items": [
+          "Manual data entry",
+          "Copying information between systems",
+          "Preparing repetitive reports",
+          "Updating spreadsheets every day",
+          "Manual testing and verification"
+        ]
+      },
+      "Process Fix": {
+        "score": 128,
+        "tier": "Medium Priority",
+        "A": 40,
+        "B": 4,
+        "C": 80,
+        "items": [
+          "Attending unnecessary meetings",
+          "Lack of process standardization",
+          "Version control issues in documents",
+          "Information scattered across tools",
+          "Missed deadlines due to dependencies"
+        ]
+      },
+      "AI Use Case": {
+        "score": 320,
+        "tier": "High Priority",
+        "A": 80,
+        "B": 4,
+        "C": 100,
+        "items": [
+          "Tracking project status updates",
+          "Creating presentations",
+          "Following up on pending tasks",
+          "Document preparation",
+          "Repeated customer queries"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Manual data entry\nCopying information between systems\nPreparing repetitive reports\nUpdating spreadsheets every day",
+      "q2": "Manual testing and verification\nAttending unnecessary meetings\nTracking project status updates\nCreating presentations\nFollowing up on pending tasks\nDocument preparation",
+      "q3": "Repeated customer queries\nLack of process standardization\nVersion control issues in documents\nInformation scattered across tools\nMissed deadlines due to dependencies"
+    },
+    "answerCounts": {
+      "x": 4,
+      "y": 6,
+      "z": 5
+    },
+    "timestamp": "2026-06-11T09:41:33.708Z"
+  },
+  {
+    "name": "G",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Sorting emails manually",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Can be handled by rule-based systems based on sender, keywords, or predefined filters.",
+        "score": 12,
+        "tier": "Low Priority",
+        "A": 20,
+        "B": 2,
+        "C": 30
+      },
+      {
+        "text": "Creating status updates",
+        "source": "q1",
+        "category": "AI Use Case",
+        "reason": "Requires summarizing varied, often unstructured data, extracting key points, and applying judgment to synthesize information.",
+        "score": 150,
+        "tier": "Medium Priority",
+        "A": 30,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Checking invoices one by one",
+        "source": "q1",
+        "category": "AI Use Case",
+        "reason": "Involves reading unstructured document data (OCR), extracting specific fields, and validating against complex or dynamic rules.",
+        "score": 80,
+        "tier": "Low Priority",
+        "A": 20,
+        "B": 5,
+        "C": 80
+      },
+      {
+        "text": "Scheduling meetings manually",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Can be automated using calendar tools to find common availability based on fixed rules.",
+        "score": 400,
+        "tier": "High Priority",
+        "A": 80,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Updating CRM records",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Often involves routine, rule-based data entry or syncing from structured inputs or triggers.",
+        "score": 72,
+        "tier": "Low Priority",
+        "A": 90,
+        "B": 4,
+        "C": 20
+      },
+      {
+        "text": "Tracking project status updates",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Requires synthesizing and interpreting information from diverse, often unstructured sources (e.g., emails, chats, tickets).",
+        "score": 80,
+        "tier": "Low Priority",
+        "A": 20,
+        "B": 4,
+        "C": 100
+      },
+      {
+        "text": "Creating presentations",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Involves content generation, summarization of reports, and design suggestions based on raw data and context.",
+        "score": 360,
+        "tier": "High Priority",
+        "A": 90,
+        "B": 5,
+        "C": 80
+      },
+      {
+        "text": "Following up on pending tasks",
+        "source": "q2",
+        "category": "Automation",
+        "reason": "Can be managed with rule-based reminders and alerts based on deadlines or task status.",
+        "score": 18,
+        "tier": "Low Priority",
+        "A": 20,
+        "B": 3,
+        "C": 30
+      },
+      {
+        "text": "Frequent data entry errors",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Points to a flawed manual entry process that needs redesign, better validation, or full automation at the source to prevent errors.",
+        "score": 360,
+        "tier": "High Priority",
+        "A": 90,
+        "B": 4,
+        "C": 100
+      },
+      {
+        "text": "Repeated customer queries",
+        "source": "q3",
+        "category": "AI Use Case",
+        "reason": "AI-powered chatbots or virtual assistants can understand natural language queries and provide dynamic, relevant answers.",
+        "score": 270,
+        "tier": "Medium Priority",
+        "A": 90,
+        "B": 3,
+        "C": 100
+      },
+      {
+        "text": "Lack of process standardization",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "A fundamental workflow issue where consistency and definition are missing; requires establishing clear, uniform procedures.",
+        "score": 162,
+        "tier": "Medium Priority",
+        "A": 60,
+        "B": 3,
+        "C": 90
+      },
+      {
+        "text": "Version control issues in documents",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Suggests a broken or absent process for document management, collaboration, and how versioning tools are used.",
+        "score": 331,
+        "tier": "High Priority",
+        "A": 120,
+        "B": 4,
+        "C": 69
+      },
+      {
+        "text": "Information scattered across tools",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Requires a strategic change in information architecture, data management policies, and tool usage processes.",
+        "score": 128,
+        "tier": "Medium Priority",
+        "A": 40,
+        "B": 4,
+        "C": 80
+      },
+      {
+        "text": "Missed deadlines due to dependencies",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Indicates breakdowns in project planning, dependency management, communication workflows, and overall execution processes.",
+        "score": 128,
+        "tier": "Medium Priority",
+        "A": 80,
+        "B": 2,
+        "C": 80
+      }
+    ],
+    "bucketResults": {
+      "Automation": {
+        "score": 400,
+        "tier": "High Priority",
+        "items": [
+          "Sorting emails manually",
+          "Scheduling meetings manually",
+          "Updating CRM records",
+          "Following up on pending tasks"
+        ]
+      },
+      "AI Use Case": {
+        "score": 360,
+        "tier": "High Priority",
+        "items": [
+          "Creating status updates",
+          "Checking invoices one by one",
+          "Tracking project status updates",
+          "Creating presentations",
+          "Repeated customer queries"
+        ]
+      },
+      "Process Fix": {
+        "score": 360,
+        "tier": "High Priority",
+        "items": [
+          "Frequent data entry errors",
+          "Lack of process standardization",
+          "Version control issues in documents",
+          "Information scattered across tools",
+          "Missed deadlines due to dependencies"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Sorting emails manually\nCreating status updates\nChecking invoices one by one\nScheduling meetings manually\nUpdating CRM records",
+      "q2": "Tracking project status updates\nCreating presentations\nFollowing up on pending tasks",
+      "q3": "Frequent data entry errors\nRepeated customer queries\nLack of process standardization\nVersion control issues in documents\nInformation scattered across tools\nMissed deadlines due to dependencies"
+    },
+    "timestamp": "2026-06-11T10:46:26.391Z"
+  },
+  {
+    "name": "G",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Sorting emails manually",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Email rules can be defined to automatically categorize, prioritize, or archive emails based on sender, subject, or keywords.",
+        "score": 56,
+        "tier": "Low Priority",
+        "A": 20,
+        "B": 4,
+        "C": 70
+      },
+      {
+        "text": "Creating status updates",
+        "source": "q1",
+        "category": "AI Use Case",
+        "reason": "AI can analyze disparate data sources (reports, emails, chat logs) to summarize progress, challenges, and next steps into a coherent update.",
+        "score": 450,
+        "tier": "High Priority",
+        "A": 90,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Checking invoices one by one",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Rules can be established to automatically compare invoice details against purchase orders, contracts, or vendor master data for discrepancies.",
+        "score": 72,
+        "tier": "Low Priority",
+        "A": 40,
+        "B": 2,
+        "C": 90
+      },
+      {
+        "text": "Scheduling meetings manually",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Automated scheduling tools can find optimal times across multiple calendars, send invites, and manage conflicts based on defined availabilities.",
+        "score": 200,
+        "tier": "Medium Priority",
+        "A": 50,
+        "B": 4,
+        "C": 100
+      },
+      {
+        "text": "Updating CRM records",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Data entry and updates to structured CRM fields can be automated through integrations or robotic process automation (RPA) bots.",
+        "score": 72,
+        "tier": "Low Priority",
+        "A": 30,
+        "B": 3,
+        "C": 80
+      },
+      {
+        "text": "Data validation and cleanup",
+        "source": "q2",
+        "category": "Automation",
+        "reason": "Rules can be set to identify and correct data errors (e.g., format issues, duplicates, missing values) without human judgment.",
+        "score": 60,
+        "tier": "Low Priority",
+        "A": 60,
+        "B": 1,
+        "C": 100
+      },
+      {
+        "text": "Searching for information across systems",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "AI can understand natural language queries and retrieve, synthesize, and summarize relevant information from various unstructured and structured data sources.",
+        "score": 280,
+        "tier": "Medium Priority",
+        "A": 70,
+        "B": 4,
+        "C": 100
+      },
+      {
+        "text": "Manual testing and verification",
+        "source": "q2",
+        "category": "Automation",
+        "reason": "Test scripts can be created to automatically execute test cases and verify outcomes against expected results.",
+        "score": 350,
+        "tier": "High Priority",
+        "A": 70,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Attending unnecessary meetings",
+        "source": "q2",
+        "category": "Process Fix",
+        "reason": "This pain point requires changes in meeting culture, agenda setting, and criteria for inviting attendees, rather than technology.",
+        "score": 495,
+        "tier": "High Priority",
+        "A": 100,
+        "B": 5,
+        "C": 99
+      },
+      {
+        "text": "Tracking project status updates",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "AI can extract and synthesize progress updates from diverse sources like chat, emails, and project management tools, providing consolidated insights.",
+        "score": 213,
+        "tier": "Medium Priority",
+        "A": 79,
+        "B": 3,
+        "C": 90
+      },
+      {
+        "text": "Frequent data entry errors",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "This often points to a flawed data entry process, poor form design, or lack of training, requiring workflow and design improvements.",
+        "score": 80,
+        "tier": "Low Priority",
+        "A": 80,
+        "B": 1,
+        "C": 100
+      },
+      {
+        "text": "Repeated customer queries",
+        "source": "q3",
+        "category": "AI Use Case",
+        "reason": "AI-powered chatbots or knowledge management systems can understand customer intent and provide instant, accurate answers to common questions, reducing manual effort.",
+        "score": 135,
+        "tier": "Medium Priority",
+        "A": 90,
+        "B": 5,
+        "C": 30
+      },
+      {
+        "text": "Lack of process standardization",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "This is a fundamental organizational issue requiring the definition, documentation, and enforcement of consistent workflows and procedures.",
+        "score": 200,
+        "tier": "Medium Priority",
+        "A": 50,
+        "B": 4,
+        "C": 100
+      },
+      {
+        "text": "Version control issues in documents",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Requires implementing proper document management practices and/or ensuring the correct adoption and use of version control systems.",
+        "score": 54,
+        "tier": "Low Priority",
+        "A": 20,
+        "B": 3,
+        "C": 90
+      },
+      {
+        "text": "Information scattered across tools",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Requires establishing data governance, integrating systems, or consolidating information repositories through architectural and procedural changes.",
+        "score": 189,
+        "tier": "Medium Priority",
+        "A": 90,
+        "B": 3,
+        "C": 70
+      },
+      {
+        "text": "Missed deadlines due to dependencies",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "This indicates issues with project planning, dependency mapping, communication, and risk management, necessitating workflow changes.",
+        "score": 36,
+        "tier": "Low Priority",
+        "A": 20,
+        "B": 2,
+        "C": 90
+      }
+    ],
+    "bucketResults": {
+      "Automation": {
+        "score": 350,
+        "tier": "High Priority",
+        "items": [
+          "Sorting emails manually",
+          "Checking invoices one by one",
+          "Scheduling meetings manually",
+          "Updating CRM records",
+          "Data validation and cleanup",
+          "Manual testing and verification"
+        ]
+      },
+      "AI Use Case": {
+        "score": 450,
+        "tier": "High Priority",
+        "items": [
+          "Creating status updates",
+          "Searching for information across systems",
+          "Tracking project status updates",
+          "Repeated customer queries"
+        ]
+      },
+      "Process Fix": {
+        "score": 495,
+        "tier": "High Priority",
+        "items": [
+          "Attending unnecessary meetings",
+          "Frequent data entry errors",
+          "Lack of process standardization",
+          "Version control issues in documents",
+          "Information scattered across tools",
+          "Missed deadlines due to dependencies"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Sorting emails manually\nCreating status updates\nChecking invoices one by one\nScheduling meetings manually\nUpdating CRM records",
+      "q2": "Data validation and cleanup\nSearching for information across systems\nManual testing and verification\nAttending unnecessary meetings\nTracking project status updates\n",
+      "q3": "Frequent data entry errors\nRepeated customer queries\nLack of process standardization\nVersion control issues in documents\nInformation scattered across tools\nMissed deadlines due to dependencies"
+    },
+    "timestamp": "2026-06-11T10:55:30.954Z"
+  },
+  {
+    "name": "G",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Checking invoices one by one",
+        "source": "q1",
+        "category": "AI Use Case",
+        "reason": "Often involves reading and extracting data from various, unstructured invoice formats (e.g., PDFs, scans) and then validating it, requiring interpretation of messy data and sometimes judgment.",
+        "score": 360,
+        "tier": "High Priority",
+        "A": 80,
+        "B": 5,
+        "C": 90
+      },
+      {
+        "text": "Scheduling meetings manually",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Follows fixed rules for finding common availability, sending invites, and handling reschedules.",
+        "score": 150,
+        "tier": "Medium Priority",
+        "A": 100,
+        "B": 5,
+        "C": 30
+      },
+      {
+        "text": "Updating CRM records",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Repetitive data entry into structured fields based on predefined rules (e.g., logging activities, updating contact info).",
+        "score": 270,
+        "tier": "Medium Priority",
+        "A": 100,
+        "B": 3,
+        "C": 90
+      },
+      {
+        "text": "Tracking project status updates",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Requires interpreting and summarizing unstructured updates from various sources (e.g., emails, chat) to synthesize overall project status and identify blockers.",
+        "score": 216,
+        "tier": "Medium Priority",
+        "A": 90,
+        "B": 3,
+        "C": 80
+      },
+      {
+        "text": "Creating presentations",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Involves summarizing information, structuring content, applying design judgment, and generating visuals, all tasks where AI can assist significantly.",
+        "score": 132,
+        "tier": "Medium Priority",
+        "A": 30,
+        "B": 5,
+        "C": 88
+      },
+      {
+        "text": "Following up on pending tasks",
+        "source": "q2",
+        "category": "Automation",
+        "reason": "Rule-based process of identifying overdue tasks, knowing assignees, and sending automated reminders based on predefined criteria.",
+        "score": 360,
+        "tier": "High Priority",
+        "A": 80,
+        "B": 5,
+        "C": 90
+      },
+      {
+        "text": "Lack of process standardization",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "The underlying workflow is undefined, inconsistent, or not followed, requiring process redesign and standardization before technology can be effectively applied.",
+        "score": 400,
+        "tier": "High Priority",
+        "A": 80,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Version control issues in documents",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Indicates a broken or unenforced workflow for document collaboration and management, leading to conflicting versions or lost changes.",
+        "score": 135,
+        "tier": "Medium Priority",
+        "A": 30,
+        "B": 5,
+        "C": 90
+      },
+      {
+        "text": "Information scattered across tools",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Points to issues with data architecture, system design, or lack of a cohesive information management strategy, requiring workflow and ownership changes first.",
+        "score": 200,
+        "tier": "Medium Priority",
+        "A": 40,
+        "B": 5,
+        "C": 100
+      }
+    ],
+    "bucketResults": {
+      "AI Use Case": {
+        "score": 236,
+        "tier": "Medium Priority",
+        "items": [
+          "Checking invoices one by one",
+          "Tracking project status updates",
+          "Creating presentations"
+        ]
+      },
+      "Automation": {
+        "score": 260,
+        "tier": "Medium Priority",
+        "items": [
+          "Scheduling meetings manually",
+          "Updating CRM records",
+          "Following up on pending tasks"
+        ]
+      },
+      "Process Fix": {
+        "score": 245,
+        "tier": "Medium Priority",
+        "items": [
+          "Lack of process standardization",
+          "Version control issues in documents",
+          "Information scattered across tools"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Checking invoices one by one\nScheduling meetings manually\nUpdating CRM records",
+      "q2": "Tracking project status updates\nCreating presentations\nFollowing up on pending tasks",
+      "q3": "Lack of process standardization\nVersion control issues in documents\nInformation scattered across tools\n"
+    },
+    "timestamp": "2026-06-11T11:14:09.095Z"
+  },
+  {
+    "name": "g",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Copying information between systems",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Repetitive data transfer between systems following fixed rules.",
+        "score": 50,
+        "tier": "Low Priority",
+        "A": 10,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Preparing repetitive report",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Generating reports from structured data using fixed templates and rules.",
+        "score": 348,
+        "tier": "High Priority",
+        "A": 80,
+        "B": 5,
+        "C": 87
+      },
+      {
+        "text": "Attending unnecessary meetings",
+        "source": "q2",
+        "category": "Process Fix",
+        "reason": "Indicates issues with meeting culture, agenda setting, or scheduling workflow.",
+        "score": 360,
+        "tier": "High Priority",
+        "A": 90,
+        "B": 5,
+        "C": 80
+      },
+      {
+        "text": "Tracking project status updates",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Requires synthesizing information from various (often unstructured) sources, identifying patterns, and summarizing progress or risks.",
+        "score": 425,
+        "tier": "High Priority",
+        "A": 100,
+        "B": 5,
+        "C": 85
+      },
+      {
+        "text": "Information scattered across tools",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Points to a lack of centralized information management, data governance, or integration strategy that needs to be addressed first.",
+        "score": 300,
+        "tier": "High Priority",
+        "A": 60,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Missed deadlines due to dependencies",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Indicates issues with workflow planning, communication, resource allocation, or dependency management processes.",
+        "score": 132,
+        "tier": "Medium Priority",
+        "A": 70,
+        "B": 3,
+        "C": 63
+      }
+    ],
+    "bucketResults": {
+      "Automation": {
+        "score": 199,
+        "tier": "Medium Priority",
+        "items": [
+          "Copying information between systems",
+          "Preparing repetitive report"
+        ]
+      },
+      "Process Fix": {
+        "score": 264,
+        "tier": "Medium Priority",
+        "items": [
+          "Attending unnecessary meetings",
+          "Information scattered across tools",
+          "Missed deadlines due to dependencies"
+        ]
+      },
+      "AI Use Case": {
+        "score": 425,
+        "tier": "High Priority",
+        "items": [
+          "Tracking project status updates"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Copying information between systems\nPreparing repetitive report",
+      "q2": "Attending unnecessary meetings\nTracking project status updates",
+      "q3": "Information scattered across tools\nMissed deadlines due to dependencies"
+    },
+    "timestamp": "2026-06-11T11:21:05.978Z"
+  },
+  {
+    "name": "G",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Manual data entry",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "This task follows fixed rules, moving data from one known field to another without requiring judgment.",
+        "score": 61,
+        "tier": "Low Priority",
+        "A": 40,
+        "B": 2,
+        "C": 76
+      },
+      {
+        "text": "Searching for information across systems",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "This requires reading messy/unstructured data from various sources, understanding context, and extracting/summarizing relevant information.",
+        "score": 400,
+        "tier": "High Priority",
+        "A": 80,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Communication gaps between departments",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "This is a systemic issue related to workflow, unclear handoffs, or organizational structure that needs a change in process, not just technology.",
+        "score": 168,
+        "tier": "Medium Priority",
+        "A": 80,
+        "B": 3,
+        "C": 70
+      }
+    ],
+    "bucketResults": {
+      "Automation": {
+        "score": 61,
+        "tier": "Low Priority",
+        "items": [
+          "Manual data entry"
+        ]
+      },
+      "AI Use Case": {
+        "score": 400,
+        "tier": "High Priority",
+        "items": [
+          "Searching for information across systems"
+        ]
+      },
+      "Process Fix": {
+        "score": 168,
+        "tier": "Medium Priority",
+        "items": [
+          "Communication gaps between departments"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Manual data entry\n",
+      "q2": "Searching for information across systems",
+      "q3": "Communication gaps between departments"
+    },
+    "timestamp": "2026-06-11T12:13:34.702Z"
+  },
+  {
+    "name": "G",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Checking invoices one by one",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Repetitive task involving rule-based data verification and matching.",
+        "score": 252,
+        "tier": "Medium Priority",
+        "A": 70,
+        "B": 4,
+        "C": 90
+      },
+      {
+        "text": "Scheduling meetings manually",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Repetitive task involving checking calendars, finding common availability, and sending invites.",
+        "score": 60,
+        "tier": "Low Priority",
+        "A": 30,
+        "B": 2,
+        "C": 100
+      },
+      {
+        "text": "Updating CRM records",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Repetitive data entry and synchronization based on predefined rules or triggers.",
+        "score": 198,
+        "tier": "Medium Priority",
+        "A": 40,
+        "B": 5,
+        "C": 99
+      },
+      {
+        "text": "Creating presentations",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Requires synthesizing information, applying judgment for content, and generating narratives.",
+        "score": 2700,
+        "tier": "High Priority",
+        "A": 100,
+        "B": 90,
+        "C": 30
+      },
+      {
+        "text": "Following up on pending tasks",
+        "source": "q2",
+        "category": "Automation",
+        "reason": "Rule-based identification of overdue tasks and automated sending of reminders.",
+        "score": 400,
+        "tier": "High Priority",
+        "A": 80,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Document preparation",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Often involves summarizing information, drafting content, and structuring varied data into a coherent document.",
+        "score": 17,
+        "tier": "Low Priority",
+        "A": 20,
+        "B": 1,
+        "C": 86
+      },
+      {
+        "text": "Version control issues in documents",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Indicates a broken workflow or lack of agreed-upon system for document collaboration and management.",
+        "score": 360,
+        "tier": "High Priority",
+        "A": 80,
+        "B": 5,
+        "C": 90
+      },
+      {
+        "text": "Information scattered across tools",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Suggests a lack of data governance, unified information strategy, or defined data ownership/flow.",
+        "score": 210,
+        "tier": "Medium Priority",
+        "A": 70,
+        "B": 3,
+        "C": 100
+      },
+      {
+        "text": "Missed deadlines due to dependencies",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Indicates issues in project planning, dependency management, and workflow communication, not just individual task execution.",
+        "score": 252,
+        "tier": "Medium Priority",
+        "A": 70,
+        "B": 4,
+        "C": 90
+      }
+    ],
+    "bucketResults": {
+      "Automation": {
+        "score": 228,
+        "tier": "Medium Priority",
+        "items": [
+          "Checking invoices one by one",
+          "Scheduling meetings manually",
+          "Updating CRM records",
+          "Following up on pending tasks"
+        ]
+      },
+      "AI Use Case": {
+        "score": 1359,
+        "tier": "High Priority",
+        "items": [
+          "Creating presentations",
+          "Document preparation"
+        ]
+      },
+      "Process Fix": {
+        "score": 274,
+        "tier": "Medium Priority",
+        "items": [
+          "Version control issues in documents",
+          "Information scattered across tools",
+          "Missed deadlines due to dependencies"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Checking invoices one by one\nScheduling meetings manually\nUpdating CRM records",
+      "q2": "Creating presentations\nFollowing up on pending tasks\nDocument preparation",
+      "q3": "Version control issues in documents\nInformation scattered across tools\nMissed deadlines due to dependencies"
+    },
+    "timestamp": "2026-06-11T17:14:37.956Z"
+  },
+  {
+    "name": "G",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Manual data entry",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Rule-based data transfer that requires no judgment.",
+        "score": 288,
+        "tier": "Medium Priority",
+        "A": 80,
+        "B": 4,
+        "C": 90
+      },
+      {
+        "text": "Copying information between systems",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Standardized task involving moving data between fixed points.",
+        "score": 240,
+        "tier": "Medium Priority",
+        "A": 80,
+        "B": 3,
+        "C": 100
+      },
+      {
+        "text": "Preparing repetitive reports",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Consistent workflow based on defined data sources and formats.",
+        "score": 500,
+        "tier": "High Priority",
+        "A": 100,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Updating spreadsheets every day",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Predictable task that follows fixed rules.",
+        "score": 270,
+        "tier": "Medium Priority",
+        "A": 90,
+        "B": 3,
+        "C": 100
+      },
+      {
+        "text": "Chasing people for approvals",
+        "source": "q1",
+        "category": "Process Fix",
+        "reason": "This is a bottleneck issue reflecting a broken or inefficient workflow.",
+        "score": 160,
+        "tier": "Medium Priority",
+        "A": 80,
+        "B": 2,
+        "C": 100
+      },
+      {
+        "text": "Data validation and cleanup",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Requires judgment to interpret and reconcile unstructured or messy data.",
+        "score": 98,
+        "tier": "Low Priority",
+        "A": 70,
+        "B": 2,
+        "C": 70
+      },
+      {
+        "text": "Searching for information across systems",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Requires natural language processing to retrieve and synthesize data from varied sources.",
+        "score": 150,
+        "tier": "Medium Priority",
+        "A": 30,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Manual testing and verification",
+        "source": "q2",
+        "category": "Automation",
+        "reason": "Test scripts can be automated once verification criteria are fixed.",
+        "score": 360,
+        "tier": "High Priority",
+        "A": 90,
+        "B": 4,
+        "C": 100
+      },
+      {
+        "text": "Repeated customer queries",
+        "source": "q3",
+        "category": "AI Use Case",
+        "reason": "Requires language understanding and contextual response generation.",
+        "score": 70,
+        "tier": "Low Priority",
+        "A": 20,
+        "B": 5,
+        "C": 70
+      },
+      {
+        "text": "Lack of process standardization",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "This is a fundamental organizational issue that precedes technology implementation.",
+        "score": 252,
+        "tier": "Medium Priority",
+        "A": 70,
+        "B": 4,
+        "C": 90
+      },
+      {
+        "text": "Version control issues in documents",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Requires a change in document management policy and organizational behavior.",
+        "score": 176,
+        "tier": "Medium Priority",
+        "A": 90,
+        "B": 2,
+        "C": 98
+      },
+      {
+        "text": "Information scattered across tools",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "This is a systemic architectural or organizational issue requiring a centralized process.",
+        "score": 288,
+        "tier": "Medium Priority",
+        "A": 90,
+        "B": 4,
+        "C": 80
+      },
+      {
+        "text": "Missed deadlines due to dependencies",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "An operational bottleneck requiring better workflow management and planning.",
+        "score": 80,
+        "tier": "Low Priority",
+        "A": 40,
+        "B": 2,
+        "C": 100
+      }
+    ],
+    "bucketResults": {
+      "Automation": {
+        "score": 332,
+        "tier": "High Priority",
+        "items": [
+          "Manual data entry",
+          "Copying information between systems",
+          "Preparing repetitive reports",
+          "Updating spreadsheets every day",
+          "Manual testing and verification"
+        ]
+      },
+      "Process Fix": {
+        "score": 191,
+        "tier": "Medium Priority",
+        "items": [
+          "Chasing people for approvals",
+          "Lack of process standardization",
+          "Version control issues in documents",
+          "Information scattered across tools",
+          "Missed deadlines due to dependencies"
+        ]
+      },
+      "AI Use Case": {
+        "score": 106,
+        "tier": "Medium Priority",
+        "items": [
+          "Data validation and cleanup",
+          "Searching for information across systems",
+          "Repeated customer queries"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Manual data entry\nCopying information between systems\nPreparing repetitive reports\nUpdating spreadsheets every day\nChasing people for approvals\n",
+      "q2": "Data validation and cleanup\nSearching for information across systems\nManual testing and verification\n",
+      "q3": "Repeated customer queries\nLack of process standardization\nVersion control issues in documents\nInformation scattered across tools\nMissed deadlines due to dependencies"
+    },
+    "timestamp": "2026-06-11T17:42:03.967Z"
+  },
+  {
+    "name": "G",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Manual data entry",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Rule-based task of moving data from one place to another.",
+        "score": 192,
+        "tier": "Medium Priority",
+        "A": 80,
+        "B": 3,
+        "C": 80
+      },
+      {
+        "text": "Copying information between systems",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Standardized task that follows fixed rules with no judgment.",
+        "score": 160,
+        "tier": "Medium Priority",
+        "A": 80,
+        "B": 2,
+        "C": 100
+      },
+      {
+        "text": "Preparing repetitive reports",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Systematic, rule-based output of structured data.",
+        "score": 146,
+        "tier": "Medium Priority",
+        "A": 30,
+        "B": 5,
+        "C": 97
+      },
+      {
+        "text": "Updating spreadsheets every day",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Routine task with fixed inputs and outputs.",
+        "score": 350,
+        "tier": "High Priority",
+        "A": 70,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Chasing people for approvals",
+        "source": "q1",
+        "category": "Process Fix",
+        "reason": "Indicates a broken workflow or bottleneck in accountability.",
+        "score": 90,
+        "tier": "Low Priority",
+        "A": 30,
+        "B": 3,
+        "C": 100
+      },
+      {
+        "text": "Tracking project status updates",
+        "source": "q2",
+        "category": "Process Fix",
+        "reason": "Requires process alignment and communication standards rather than just technology.",
+        "score": 280,
+        "tier": "Medium Priority",
+        "A": 70,
+        "B": 4,
+        "C": 100
+      },
+      {
+        "text": "Creating presentations",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Requires synthesis of information, structure, and judgment.",
+        "score": 280,
+        "tier": "Medium Priority",
+        "A": 70,
+        "B": 4,
+        "C": 100
+      },
+      {
+        "text": "Following up on pending tasks",
+        "source": "q2",
+        "category": "Process Fix",
+        "reason": "Signifies a breakdown in workflow ownership and visibility.",
+        "score": 92,
+        "tier": "Low Priority",
+        "A": 70,
+        "B": 2,
+        "C": 66
+      },
+      {
+        "text": "Document preparation",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Requires summarization and synthesis of unstructured content.",
+        "score": 400,
+        "tier": "High Priority",
+        "A": 80,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Frequent data entry errors",
+        "source": "q3",
+        "category": "Automation",
+        "reason": "Eliminating human error in routine tasks is a primary use for automation.",
+        "score": 66,
+        "tier": "Low Priority",
+        "A": 20,
+        "B": 4,
+        "C": 82
+      },
+      {
+        "text": "Repeated customer queries",
+        "source": "q3",
+        "category": "AI Use Case",
+        "reason": "Requires natural language processing to interpret and answer unstructured user intent.",
+        "score": 360,
+        "tier": "High Priority",
+        "A": 120,
+        "B": 3,
+        "C": 100
+      }
+    ],
+    "bucketResults": {
+      "Automation": {
+        "score": 183,
+        "tier": "Medium Priority",
+        "items": [
+          "Manual data entry",
+          "Copying information between systems",
+          "Preparing repetitive reports",
+          "Updating spreadsheets every day",
+          "Frequent data entry errors"
+        ]
+      },
+      "Process Fix": {
+        "score": 154,
+        "tier": "Medium Priority",
+        "items": [
+          "Chasing people for approvals",
+          "Tracking project status updates",
+          "Following up on pending tasks"
+        ]
+      },
+      "AI Use Case": {
+        "score": 347,
+        "tier": "High Priority",
+        "items": [
+          "Creating presentations",
+          "Document preparation",
+          "Repeated customer queries"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Manual data entry\nCopying information between systems\nPreparing repetitive reports\nUpdating spreadsheets every day\nChasing people for approvals",
+      "q2": "Tracking project status updates\nCreating presentations\nFollowing up on pending tasks\nDocument preparation",
+      "q3": "Frequent data entry errors\nRepeated customer queries"
+    },
+    "timestamp": "2026-06-12T09:36:51.683Z"
+  },
+  {
+    "name": "G",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Checking invoices one by one",
+        "source": "q1",
+        "category": "AI Use Case",
+        "reason": "Requires extracting variable data from potentially different invoice formats and verifying accuracy.",
+        "score": 192,
+        "tier": "Medium Priority",
+        "A": 80,
+        "B": 3,
+        "C": 80
+      },
+      {
+        "text": "Scheduling meetings manually",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "This task follows fixed logic based on calendar availability and can be handled by deterministic scheduling tools.",
+        "score": 360,
+        "tier": "High Priority",
+        "A": 90,
+        "B": 4,
+        "C": 100
+      },
+      {
+        "text": "Updating CRM records",
+        "source": "q1",
+        "category": "AI Use Case",
+        "reason": "Requires parsing unstructured communication (emails/notes) to update structured database fields.",
+        "score": 360,
+        "tier": "High Priority",
+        "A": 90,
+        "B": 4,
+        "C": 100
+      },
+      {
+        "text": "Following up on pending tasks",
+        "source": "q2",
+        "category": "Automation",
+        "reason": "Routine reminders can be triggered automatically based on task due dates and status flags.",
+        "score": 68,
+        "tier": "Low Priority",
+        "A": 40,
+        "B": 2,
+        "C": 85
+      },
+      {
+        "text": "Document preparation",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Involves synthesizing information and drafting content based on context and specific requirements.",
+        "score": 250,
+        "tier": "Medium Priority",
+        "A": 50,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Version control issues in documents",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "This is a governance and workflow issue; technology cannot fix it if the team lacks a standard file management protocol.",
+        "score": 150,
+        "tier": "Medium Priority",
+        "A": 30,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Information scattered across tools",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "This is a systemic issue regarding tool stack redundancy and lack of a single source of truth; processes must be consolidated.",
+        "score": 112,
+        "tier": "Medium Priority",
+        "A": 70,
+        "B": 4,
+        "C": 40
+      },
+      {
+        "text": "Missed deadlines due to dependencies",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Rooted in poor communication, lack of accountability, or inefficient handoff protocols, not a lack of software.",
+        "score": 100,
+        "tier": "Medium Priority",
+        "A": 20,
+        "B": 5,
+        "C": 100
+      }
+    ],
+    "bucketResults": {
+      "AI Use Case": {
+        "score": 267,
+        "tier": "Medium Priority",
+        "items": [
+          "Checking invoices one by one",
+          "Updating CRM records",
+          "Document preparation"
+        ]
+      },
+      "Automation": {
+        "score": 214,
+        "tier": "Medium Priority",
+        "items": [
+          "Scheduling meetings manually",
+          "Following up on pending tasks"
+        ]
+      },
+      "Process Fix": {
+        "score": 121,
+        "tier": "Medium Priority",
+        "items": [
+          "Version control issues in documents",
+          "Information scattered across tools",
+          "Missed deadlines due to dependencies"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Checking invoices one by one\nScheduling meetings manually\nUpdating CRM records",
+      "q2": "Following up on pending tasks\nDocument preparation",
+      "q3": "Version control issues in documents\nInformation scattered across tools\nMissed deadlines due to dependencies"
+    },
+    "timestamp": "2026-06-15T05:14:11.932Z"
+  },
+  {
+    "name": "John",
+    "account": "Financials",
+    "categorizedItems": [
+      {
+        "text": "Item 1",
+        "source": "q1",
+        "category": "Uncategorized",
+        "reason": "Classification failed. You can manually adjust the category.",
+        "score": 10,
+        "tier": "Low Priority",
+        "A": 10,
+        "B": 2,
+        "C": 50
+      },
+      {
+        "text": "Item 2",
+        "source": "q1",
+        "category": "Uncategorized",
+        "reason": "Classification failed. You can manually adjust the category.",
+        "score": 16,
+        "tier": "Low Priority",
+        "A": 5,
+        "B": 4,
+        "C": 80
+      },
+      {
+        "text": "Item 3",
+        "source": "q1",
+        "category": "Uncategorized",
+        "reason": "Classification failed. You can manually adjust the category.",
+        "score": 2,
+        "tier": "Low Priority",
+        "A": 2,
+        "B": 3,
+        "C": 40
+      }
+    ],
+    "bucketResults": {
+      "Uncategorized": {
+        "score": 9,
+        "tier": "Low Priority",
+        "items": [
+          "Item 1",
+          "Item 2",
+          "Item 3"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Item 1\nItem 2\nItem 3",
+      "q2": "",
+      "q3": ""
+    },
+    "timestamp": "2026-06-16T05:41:52.194Z"
+  },
+  {
+    "name": "G",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Creating status updates",
+        "source": "q1",
+        "category": "AI Use Case",
+        "reason": "Requires summarizing project context and synthesizing progress into a coherent narrative.",
+        "score": 210,
+        "tier": "Medium Priority",
+        "A": 60,
+        "B": 5,
+        "C": 70
+      },
+      {
+        "text": "Checking invoices one by one",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Follows fixed rules to verify data points against a database or procurement order.",
+        "score": 396,
+        "tier": "High Priority",
+        "A": 99,
+        "B": 5,
+        "C": 80
+      },
+      {
+        "text": "Scheduling meetings manually",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "Standard rule-based logic to find common availability between calendars.",
+        "score": 180,
+        "tier": "Medium Priority",
+        "A": 30,
+        "B": 6,
+        "C": 100
+      },
+      {
+        "text": "Updating CRM records",
+        "source": "q1",
+        "category": "AI Use Case",
+        "reason": "Requires parsing unstructured communication (emails/notes) to extract relevant data for CRM fields.",
+        "score": 320,
+        "tier": "High Priority",
+        "A": 100,
+        "B": 4,
+        "C": 80
+      },
+      {
+        "text": "Searching for information across systems",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Requires semantic understanding to retrieve and synthesize answers from multiple unstructured sources.",
+        "score": 250,
+        "tier": "Medium Priority",
+        "A": 50,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Manual testing and verification",
+        "source": "q2",
+        "category": "Automation",
+        "reason": "Regression and functional testing can be standardized into fixed scripts with predictable pass/fail outcomes.",
+        "score": 350,
+        "tier": "High Priority",
+        "A": 70,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Attending unnecessary meetings",
+        "source": "q2",
+        "category": "Process Fix",
+        "reason": "This is a cultural and governance issue regarding meeting discipline and objective setting.",
+        "score": 500,
+        "tier": "High Priority",
+        "A": 100,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Tracking project status updates",
+        "source": "q2",
+        "category": "Process Fix",
+        "reason": "Usually indicates a failure in project management methodology and lack of a single source of truth.",
+        "score": 240,
+        "tier": "Medium Priority",
+        "A": 100,
+        "B": 3,
+        "C": 80
+      },
+      {
+        "text": "Lack of process standardization",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "By definition, requires organizational alignment and documentation before technology can be applied.",
+        "score": 60,
+        "tier": "Low Priority",
+        "A": 100,
+        "B": 1,
+        "C": 60
+      },
+      {
+        "text": "Version control issues in documents",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Requires changing the workflow and defining a document management policy/naming convention.",
+        "score": 360,
+        "tier": "High Priority",
+        "A": 100,
+        "B": 4,
+        "C": 90
+      },
+      {
+        "text": "Information scattered across tools",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Reflects a fragmented tech stack strategy and siloed workflows that require consolidation.",
+        "score": 140,
+        "tier": "Medium Priority",
+        "A": 100,
+        "B": 2,
+        "C": 70
+      }
+    ],
+    "bucketResults": {
+      "AI Use Case": {
+        "score": 260,
+        "tier": "Medium Priority",
+        "items": [
+          "Creating status updates",
+          "Updating CRM records",
+          "Searching for information across systems"
+        ]
+      },
+      "Automation": {
+        "score": 309,
+        "tier": "High Priority",
+        "items": [
+          "Checking invoices one by one",
+          "Scheduling meetings manually",
+          "Manual testing and verification"
+        ]
+      },
+      "Process Fix": {
+        "score": 260,
+        "tier": "Medium Priority",
+        "items": [
+          "Attending unnecessary meetings",
+          "Tracking project status updates",
+          "Lack of process standardization",
+          "Version control issues in documents",
+          "Information scattered across tools"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Creating status updates\nChecking invoices one by one\nScheduling meetings manually\nUpdating CRM records\n",
+      "q2": "Searching for information across systems\nManual testing and verification\nAttending unnecessary meetings\nTracking project status updates",
+      "q3": "Lack of process standardization\nVersion control issues in documents\nInformation scattered across tools"
+    },
+    "timestamp": "2026-06-16T05:46:03.490Z"
+  },
+  {
+    "name": "G",
+    "account": "IT",
+    "categorizedItems": [
+      {
+        "text": "Scheduling meetings manually",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "This task involves following fixed rules based on calendar availability with no judgment required.",
+        "score": 400,
+        "tier": "High Priority",
+        "A": 80,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Updating CRM records",
+        "source": "q1",
+        "category": "AI Use Case",
+        "reason": "Requires extracting relevant data from unstructured communications to update records accurately.",
+        "score": 300,
+        "tier": "High Priority",
+        "A": 60,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Following up on pending tasks",
+        "source": "q2",
+        "category": "Automation",
+        "reason": "This is a repetitive task based on deadline triggers that can be automated through rule-based systems.",
+        "score": 168,
+        "tier": "Medium Priority",
+        "A": 70,
+        "B": 3,
+        "C": 80
+      },
+      {
+        "text": "Document preparation",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Involves summarizing information, drafting content, and requiring judgment to ensure context and accuracy.",
+        "score": 110,
+        "tier": "Medium Priority",
+        "A": 40,
+        "B": 5,
+        "C": 55
+      },
+      {
+        "text": "Information scattered across tools",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "This indicates a foundational issue with data management and tool adoption strategy that technology alone cannot resolve.",
+        "score": 300,
+        "tier": "High Priority",
+        "A": 60,
+        "B": 5,
+        "C": 100
+      },
+      {
+        "text": "Missed deadlines due to dependencies",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "This is a structural workflow issue involving bottlenecks and accountability that needs a process redesign.",
+        "score": 350,
+        "tier": "High Priority",
+        "A": 70,
+        "B": 5,
+        "C": 100
+      }
+    ],
+    "bucketResults": {
+      "Automation": {
+        "score": 284,
+        "tier": "Medium Priority",
+        "items": [
+          "Scheduling meetings manually",
+          "Following up on pending tasks"
+        ]
+      },
+      "AI Use Case": {
+        "score": 205,
+        "tier": "Medium Priority",
+        "items": [
+          "Updating CRM records",
+          "Document preparation"
+        ]
+      },
+      "Process Fix": {
+        "score": 325,
+        "tier": "High Priority",
+        "items": [
+          "Information scattered across tools",
+          "Missed deadlines due to dependencies"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Scheduling meetings manually\nUpdating CRM records",
+      "q2": "Following up on pending tasks\nDocument preparation",
+      "q3": "Information scattered across tools\nMissed deadlines due to dependencies"
+    },
+    "timestamp": "2026-06-16T10:10:49.273Z"
+  },
+  {
+    "name": "shinchan",
+    "account": "ML",
+    "categorizedItems": [
+      {
+        "text": "Manual data entry",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "This is a repetitive, rule-based task that involves moving data from one location to another.",
+        "score": 800,
+        "tier": "High Priority",
+        "A": 800,
+        "B": 2,
+        "C": 50
+      },
+      {
+        "text": "Copying information between systems",
+        "source": "q1",
+        "category": "Automation",
+        "reason": "This task is deterministic and follows a fixed routine without requiring complex judgment.",
+        "score": 264,
+        "tier": "Medium Priority",
+        "A": 50,
+        "B": 24,
+        "C": 22
+      },
+      {
+        "text": "Weekly report generation",
+        "source": "q2",
+        "category": "Automation",
+        "reason": "The report structure is consistent and the data sources are known, allowing for automated assembly.",
+        "score": 5337767,
+        "tier": "High Priority",
+        "A": 2322,
+        "B": 2322,
+        "C": 99
+      },
+      {
+        "text": "Responding to repetitive emails",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Analyzing email content requires understanding language, intent, and context to generate appropriate responses.",
+        "score": 0,
+        "tier": "Low Priority",
+        "A": 0,
+        "B": 4,
+        "C": 3
+      },
+      {
+        "text": "Data validation and cleanup",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Identifying errors in messy or unstructured data often requires judgment or pattern recognition beyond simple rules.",
+        "score": 120999,
+        "tier": "High Priority",
+        "A": 33333,
+        "B": 33,
+        "C": 11
+      },
+      {
+        "text": "Searching for information across systems",
+        "source": "q2",
+        "category": "AI Use Case",
+        "reason": "Retrieving information from fragmented, unstructured sources requires semantic understanding and search capabilities.",
+        "score": 0,
+        "tier": "Low Priority",
+        "A": 0,
+        "B": 3,
+        "C": 33
+      },
+      {
+        "text": "Missing or incomplete data",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "This indicates a failure in upstream data entry or capture workflows that needs to be solved at the source.",
+        "score": 0,
+        "tier": "Low Priority",
+        "A": 2,
+        "B": 3,
+        "C": 3
+      },
+      {
+        "text": "Delays in approvals",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Bottlenecks in approval hierarchies are organizational issues that require process redesign, not just technology.",
+        "score": 7548,
+        "tier": "High Priority",
+        "A": 34,
+        "B": 222,
+        "C": 100
+      },
+      {
+        "text": "Duplicate work across teams",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "Duplication is a result of poor role definition and workflow design between departments.",
+        "score": 1321,
+        "tier": "High Priority",
+        "A": 222,
+        "B": 7,
+        "C": 85
+      },
+      {
+        "text": "Communication gaps between departments",
+        "source": "q3",
+        "category": "Process Fix",
+        "reason": "This is a structural or cultural workflow issue that requires alignment and process improvement.",
+        "score": 45,
+        "tier": "Low Priority",
+        "A": 15,
+        "B": 3,
+        "C": 100
+      }
+    ],
+    "bucketResults": {
+      "Automation": {
+        "score": 1779610,
+        "tier": "High Priority",
+        "items": [
+          "Manual data entry",
+          "Copying information between systems",
+          "Weekly report generation"
+        ]
+      },
+      "AI Use Case": {
+        "score": 40333,
+        "tier": "High Priority",
+        "items": [
+          "Responding to repetitive emails",
+          "Data validation and cleanup",
+          "Searching for information across systems"
+        ]
+      },
+      "Process Fix": {
+        "score": 2229,
+        "tier": "High Priority",
+        "items": [
+          "Missing or incomplete data",
+          "Delays in approvals",
+          "Duplicate work across teams",
+          "Communication gaps between departments"
+        ]
+      }
+    },
+    "answers": {
+      "q1": "Manual data entry\nCopying information between systems",
+      "q2": "Weekly report generation\nResponding to repetitive emails\nData validation and cleanup\nSearching for information across systems",
+      "q3": "Missing or incomplete data\nDelays in approvals\nDuplicate work across teams\nCommunication gaps between departments"
+    },
+    "timestamp": "2026-06-16T17:56:54.523Z"
+  }
+]

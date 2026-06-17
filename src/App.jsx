@@ -232,11 +232,21 @@ export default function App() {
       setResult({ bucketResults, rankedItems, name, account, categorizedItems });
       setStep(5);
 
-      fetch('/api/save', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ name, account, categorizedItems: scoredItems, bucketResults, answers: { q1: answers.q1, q2: answers.q2, q3: answers.q3 } })
-      }).catch(e => console.error('Failed to save submission:', e));
+      // Save submission to localStorage (Vercel is stateless — no server filesystem)
+      try {
+        const existing = JSON.parse(localStorage.getItem('hcl_submissions') || '[]');
+        existing.push({
+          name,
+          account,
+          categorizedItems: scoredItems,
+          bucketResults,
+          answers: { q1: answers.q1, q2: answers.q2, q3: answers.q3 },
+          timestamp: new Date().toISOString()
+        });
+        localStorage.setItem('hcl_submissions', JSON.stringify(existing));
+      } catch (e) {
+        console.warn('Could not save submission to localStorage:', e);
+      }
     } catch (_) {
       setApiError('Classification unavailable – please try again');
     }

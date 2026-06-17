@@ -36,11 +36,11 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const apiKey = process.env.GEMINI_API_KEY;
+  const apiKey = process.env.GEMINI_API_KEY || process.env.VITE_GEMINI_API_KEY;
   if (!apiKey || apiKey === 'YOUR_GEMINI_API_KEY_HERE') {
     return res
       .status(500)
-      .json({ error: 'GEMINI_API_KEY is not configured in Vercel environment variables.' });
+      .json({ error: 'GEMINI_API_KEY or VITE_GEMINI_API_KEY is not configured in Vercel environment variables.' });
   }
 
   const { items } = req.body;
@@ -63,7 +63,7 @@ export default async function handler(req, res) {
 
   try {
     const response = await generateContentWithRetry(ai, {
-      model: 'gemini-2.0-flash-lite',
+      model: 'gemini-flash-lite-latest',
       contents: [
         { role: 'user', parts: [{ text: systemPrompt + '\n\n' + userPrompt }] },
       ],

@@ -105,12 +105,12 @@ The `.env` file is **ignored by Git** (see `.gitignore`).
 
 All responses are JSON; errors return `{ error: "…" }` with HTTP 500.
 
-## Contributing
+## Created by Interns at HCL Tech
 
-1. Fork the repo.
-2. Create a feature branch.
-3. Make your changes and ensure the UI remains polished (follow the existing design system).
-4. Submit a pull request.
+1. Gauravi Shyam
+2. Samarth Arora
+3. Pragya Chakravarty
+
 
 Please **do not commit the `.env` file**; it is listed in `.gitignore`.
 

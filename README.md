@@ -109,7 +109,7 @@ All responses are JSON; errors return `{ error: "…" }` with HTTP 500.
 
 1. Gauravi Shyam
 2. Samarth Arora
-3. Pragya Chakravarty
+
 
 
 Please **do not commit the `.env` file**; it is listed in `.gitignore`.
